@@ -23,6 +23,13 @@ Command to install the required libraries. Install them inside the application  
 ```bash
     pip install langchain openai streamlit python-dotenv
 ```
+## Run
+
+Commands to run.
+
+```bash
+    streamlit run main.py
+```
     
 ## Tech Stack
 
