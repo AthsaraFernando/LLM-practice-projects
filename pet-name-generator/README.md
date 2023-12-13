@@ -33,6 +33,6 @@ Commands to run.
     
 ## Tech Stack
 
-Langchain, OpenAI API, python
+Langchain, OpenAI API, python, streamlit
 
 
