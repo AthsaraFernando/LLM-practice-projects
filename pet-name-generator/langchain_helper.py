@@ -33,5 +33,5 @@ def langchain_agent():
     print(result)
 
 if __name__=="__main__":
-    langchain_agent()
-    #print(generate_pet_name('cat','black'))
+    #langchain_agent()
+    print(generate_pet_name('cat','black'))
