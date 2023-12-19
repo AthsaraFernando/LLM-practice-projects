@@ -1,5 +1,5 @@
 
-# Pet Name Generator
+# Youtube Assistant
 
 This is Youtube assistant LLM application.
 
